@@ -1,10 +1,12 @@
 #!/usr/bin/python3
 
-# Road Lane Lines Detection Project 
-''' @ Original Author : Ashish Dave (ADX)'''
+# Road Lane Detection System - OpenLDS
+# OpenLDS is developed by VoiceDrive Technology
 
-# Project Done by : Ashish Kumar Dave, Abhishek Rout, Saurabh Kumar, Sanchit Tripathy
-# Run the Program Code in GNU/Linux Systems for Optimized Performance
+# OpenLDS is regulary used by many Developers &
+# Contributors of Automous Car Projects
+
+''' @ Original Author : Ashish Dave, Founder of VoiceDrive'''
 
 import numpy as np
 import matplotlib
