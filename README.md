@@ -1,23 +1,8 @@
-AI Project : ORLD (Open Road Lane Detector)
+# OpenLDS - Open Road Lane Detection System
 
-ORLD is an Open Source project developed by ADX (Ashish Dave), so developers can use this as a module
-in their Self Driving Car projects. It uses OpenCV & Numpy Python libraries. 
-We've tested our program on a Video. 
+OpenLDS is an Open Source project developed by Founder of VoiceDrive : Ashish Dave, developers/organizations can use this as a module in their Self Driving Car projects.
 
-
-ORLD Team :
-
-Ashish Kumar Dave
-Abhishek Rout
-Saurabh kumar
-Sanchit Tripathy
-
+We've tested the program on a Live Video Camera. 
 
 Dependecies :
-
 Numpy, Matplotlib, OpenCV
-
-
-Usage : 
-
-python3 ORLD.py (file includes test video)
